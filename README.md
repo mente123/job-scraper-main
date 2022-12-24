@@ -36,7 +36,7 @@ python -m venv venv
 
 ```
 .\venv\Scripts\activate
-```
+```s
 
 (For Linux and Mac)
 
